@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Osama</h1>
+<h3 align="center">Software developer</h3>
 
-<!--
-**Osama-ML/Osama-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Alvea
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Software design && design patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/osama-moussati" target="_blank"/>LinkedIn</a>
+
+
+
+![image](https://www.codewars.com/users/blueC4P/badges/large)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-ML&show_icons=true&locale=en&layout=compact" alt="Osama-ML" /></p>
