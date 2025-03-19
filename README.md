@@ -9,6 +9,6 @@
 
 
 
-![image](https://www.codewars.com/users/blueC4P/badges/large)
+![image](https://www.codewars.com/users/Osama-ML/badges/large)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-ML&show_icons=true&locale=en&layout=compact" alt="Osama-ML" /></p>
