@@ -3,12 +3,7 @@
 
 - 🔭 I’m currently working on Alvea
 
-- 🌱 I’m currently learning Software design && design patterns
+- 🌱 I’m currently product designing & product management (tech side)
 
 - 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/osama-moussati" target="_blank"/>LinkedIn</a>
 
-
-
-![image](https://www.codewars.com/users/Osama-ML/badges/large)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-ML&show_icons=true&locale=en&layout=compact" alt="Osama-ML" /></p>
